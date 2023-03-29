@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adithya-R-Iyer
-- 👀 I’m interested in Java & c++
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a Project in DBMS
+- 👀 I’m interested in Web and Mobile Application Dev. 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on a Final Year Project 
 - 📫 How to reach me ...Whats App : +91 9740605350
 
 <!---
